@@ -1,0 +1,21 @@
+.content {
+    -fx-padding: 20px;
+    -fx-background-color: #d1d1d1;
+}
+
+.heading-text {
+    -fx-text-fill: #002f51;
+    -fx-font-weight: bold;
+}
+
+.bordered-container {
+    -fx-border-radius: 8px;
+    -fx-border-color: #6b6b6b;
+    -fx-border-width: 1px;
+    -fx-padding: 10px;
+}
+
+.container-label {
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
